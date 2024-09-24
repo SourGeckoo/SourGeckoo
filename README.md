@@ -1,4 +1,4 @@
 # 🦎 sour gecko
-- i mostly code in python, sometimes javascript and C++.
-- website: https://sourgecko.vercel.app
-- ko-fi: https://ko-fi.com/sourgecko
+- I mostly code in Python, sometimes Javascript/Typescript and C++. I've worked with web frameworks like Next.js and Django.
+- Website: https://sourgecko.vercel.app
+- Ko-fi: https://ko-fi.com/sourgecko
