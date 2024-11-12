@@ -1,4 +1,4 @@
 # 🦎 sour gecko
 - I mostly code in Python, sometimes Javascript and Rust.
-- Gruvbox gang 💚
+- Gruvbox fan
 - Ko-fi: https://ko-fi.com/sourgecko
