@@ -1,2 +1,2 @@
-- I mostly code in Python, sometimes Javascript and Rust.
+- I mostly code in Python, sometimes Javascript. Student.
 - Gruvbox fan
